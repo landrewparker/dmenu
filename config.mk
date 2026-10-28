@@ -2,7 +2,7 @@
 VERSION = 5.4
 
 # paths
-PREFIX = /home/anparker/.local
+PREFIX = $(HOME)/.local
 MANPREFIX = $(PREFIX)/share/man
 
 X11INC = /usr/X11R6/include
